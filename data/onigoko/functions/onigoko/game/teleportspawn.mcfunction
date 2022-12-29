@@ -1,0 +1,2 @@
+execute positioned as @e[type=armor_stand,tag=lobbyspawn] run tp @a ~ ~ ~
+tellraw @s {"text":"\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u30b9\u30dd\u30fc\u30f3\u5834\u6240\u306bTP\u3055\u305b\u307e\u3057\u305f\u3002","color":"yellow"}

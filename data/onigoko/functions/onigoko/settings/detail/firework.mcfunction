@@ -1,0 +1,6 @@
+##
+ # firework.mcfunction
+ # 
+ #
+ # Created by .
+##
