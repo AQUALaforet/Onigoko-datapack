@@ -1,2 +1,4 @@
 # Onigoko-datapack
-鬼ごっこのデータパック。
+English is not currently supported.
+
+**使用方法**
