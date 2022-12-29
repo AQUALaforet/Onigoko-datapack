@@ -1,0 +1,2 @@
+title @a title {"text":"\u220e\u220e\u220e\u220e\u220e\u220e\u220e\u220e 8 \u220e\u220e\u220e\u220e\u220e\u220e\u220e\u220e","color":"yellow"}
+execute positioned as @a run playsound block.dispenser.dispense player @a ~ ~ ~ 1 2

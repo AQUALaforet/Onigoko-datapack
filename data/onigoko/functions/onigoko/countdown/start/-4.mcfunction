@@ -1,0 +1,1 @@
+title @a title ["",{"text":"STA","color":"yellow"},{"text":"R","color":"gold"},{"text":"T","color":"yellow"}]

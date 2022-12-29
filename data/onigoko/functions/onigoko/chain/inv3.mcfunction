@@ -1,0 +1,1 @@
+execute positioned as @a[scores={inv3=..0,inv2=..0}] run execute if entity @p[scores={inv3=..0,inv2=..0}] run scoreboard players set @p[scores={inv3=..0,inv2=..0}] inv 1
